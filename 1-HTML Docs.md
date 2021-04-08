@@ -17,16 +17,12 @@
 </html>
 ```
 
--  The **<!DOCType HTMl>** declares that the document  is an HTML5 document, which helps the browsers to display the image correctly.
+-  The `<!DOCTYPE HTMl>` declares that the document  is an HTML5 document, which helps the browsers to display the image correctly.
 
--
--
-
-
-- The `**<html>**` - This would be the root element of the HTML page
-- The `**<head>**` - This element contains the meta information about the HTML page.
-- `**<title>**` - This element specifies the title for the HTML page.
-- `**<body>**` - This element contains the document body, and is a container for all the visible contents.
+- `<html>' - This would be the root element of the HTML page
+- `<head>` - This element contains the meta information about the HTML page.
+- `<title>` - This element specifies the title for the HTML page.
+- `<body>` - This element contains the document body, and is a container for all the visible contents.
 
 ---
 
@@ -53,7 +49,7 @@
 
 ### HTML Images
 
-- HTML images are defined with the **<img>** tag.
+- HTML images are defined with the `<img>` tag.
 - The source file (Src), alternative text ( alt), width and height are provided as attributes in the image tag.
 
 ```html
