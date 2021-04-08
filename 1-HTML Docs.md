@@ -23,10 +23,10 @@
 -
 
 
-- The **<html>** - This would be the root element of the HTML page
-- The **<head>** - This element contains the meta information about the HTML page.
-- **<title>** - This element specifies the title for the HTML page.
-- **<body>** - This element contains the document body, and is a container for all the visible contents.
+- The `**<html>**` - This would be the root element of the HTML page
+- The `**<head>**` - This element contains the meta information about the HTML page.
+- `**<title>**` - This element specifies the title for the HTML page.
+- `**<body>**` - This element contains the document body, and is a container for all the visible contents.
 
 ---
 
