@@ -33,7 +33,7 @@
 
 ---
 
-- HTML Paragraphs are designed with the `<p>` tag.
+- **HTML Paragraphs ** are designed with the `<p>` tag.
 
 ---
 
