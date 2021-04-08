@@ -17,9 +17,14 @@
 </html>
 ```
 
-- **<!DOCTYPE HTML>** declares that the document is an HTML5 document, which helps the browsers to display the image correctly.
-- **<html>** - This would be the root element of the HTML page
-- **<head>** - This element contains the meta information about the HTML page.
+-  The **<!DOCType HTMl>** declares that the document  is an HTML5 document, which helps the browsers to display the image correctly.
+
+-
+-
+
+
+- The **<html>** - This would be the root element of the HTML page
+- The **<head>** - This element contains the meta information about the HTML page.
 - **<title>** - This element specifies the title for the HTML page.
 - **<body>** - This element contains the document body, and is a container for all the visible contents.
 
@@ -27,8 +32,8 @@
 
 ### HTML Headings
 
-- Headings are defined from <h1> to <h6> tag.
-- <h1> would be the largest and the most important heading whereas <h6> would be the smallest and least important heading.
+- Headings are defined from `<h1>` to `<h6>` tag.
+- `<h1>` would be the largest and the most important heading whereas <h6> would be the smallest and least important heading.
 
 ---
 
