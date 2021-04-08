@@ -29,17 +29,17 @@
 ### HTML Headings
 
 - Headings are defined from `<h1>` to `<h6>` tag.
-- `<h1>` would be the largest and the most important heading whereas <h6> would be the smallest and least important heading.
+- `<h1>` would be the largest and the most important heading whereas `<h6>` would be the smallest and least important heading.
 
 ---
 
-- HTML Paragraphs are designed with the <p> tag.
+- HTML Paragraphs are designed with the `<p>` tag.
 
 ---
 
 ### HTML Links:
 
-- The links are defined with an <a> tag:
+- The links are defined with an `<a>` tag:
 
 ```html
 <a href="https://www.microsoft.com">This is a link to the Microsoft Home Page.</a>
@@ -50,7 +50,7 @@
 ### HTML Images
 
 - HTML images are defined with the `<img>` tag.
-- The source file (Src), alternative text ( alt), width and height are provided as attributes in the image tag.
+- The source file (src), alternative text ( alt), width and height are provided as attributes in the image tag.
 
 ```html
 <img src="utarlingonmascot.jpg" alt="this is the mascot of UTArlington" width="100" height="104">
